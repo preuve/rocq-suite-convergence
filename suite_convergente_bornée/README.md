@@ -1,4 +1,4 @@
-# suite-convergence
+# suite_convergente_bornée
 
 Ce projet Coq/Rocq Prover vise à formaliser des propriétés classiques sur les suites numériques, dans un cadre rigoureux.
 
